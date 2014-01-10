@@ -1,0 +1,19 @@
+lengths = 50, 60, 70
+for l in lengths:
+  max[l] = l
+  total = 0
+  for p in pitchs:
+    total += p
+    #50/10 -> 6 climbers
+    n = 1 + l / p
+    if n < 2:
+      n = 0
+    if n < max[l]:
+      max[l] = n
+  if 2*total > l:
+    max[l] = 0
+    
+return max
+
+
+    
