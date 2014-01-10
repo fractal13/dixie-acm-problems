@@ -1,0 +1,19 @@
+To be completed in class 9 Jan, 2014.
+
+Read the Ropes problem description in ropes.pdf.
+
+Write a pseudo code algorithm to solve the problem.
+You can do this on paper or in an editor.
+
+Estimate the runtime of the algorithm.  Estimate the
+time for the largest possible problem.
+
+Describe your pseudo code to at least one class member.
+Listen to at least one class member's pseudo code description.
+
+Implement your solution in a real language.  Build a test input
+file based on the description example.  Modify your code until
+it works on these samples.
+
+
+
