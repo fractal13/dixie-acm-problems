@@ -1,0 +1,21 @@
+To be completed BEFORE class 30 Jan, 2014
+
+For each of the problems: close, dance, primebases
+- Read the problem description
+- Write a pseudo code algorithm to solve the problem
+  You may do this on paper or in an editor.
+- Estimate the complexity of the algorithm, estimate the
+  time for the largest problem.
+
+Choose one of the problems listed above.
+Implement your solution in a real language.
+Build test input file(s) based on the description example(s).
+Modify your code until it works on these sample(s).
+
+
+To be completed DURING class 30 Jan, 2014
+- Share your 2 pseudo code algorithms and 1 real code algorithm
+  with at least 1 class member.
+- Listen to at least one class member's algorithm for each problem.
+- Have your code run against the larger test datasets to check
+  for accuracy and speed.
