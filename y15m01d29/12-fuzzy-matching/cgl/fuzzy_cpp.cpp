@@ -120,7 +120,7 @@ void solve(const string &w1, const string &w2)
   do_union(ms1, ms2, un);
   v1 = size_of_set(inter);
   v2 = size_of_set(un);
-  cout << v1 << " " << v2 << " : ";
+  //cout << v1 << " " << v2 << " : ";
   v3 = v1/v2;
   cout  << (int)(v3*100.+0.5) << endl;
 }
